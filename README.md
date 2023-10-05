@@ -1,5 +1,5 @@
 # COP3330-Final-Project
-Final Project for COP3330(Java Programming)
+Final Project for COP3330(Java Programming - Summer 2023)
 
 > Tested on Eclipse
 >
