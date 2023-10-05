@@ -1,0 +1,24 @@
+	Report created on 2023-10-04
+	*********************
+ 
+Faculty Members
+-----------------
+1. jenna 
+ID: nu7654 
+professor, english
+ 
+
+ Staff Members
+-----------------
+1. kayleigh 
+ID: er4356 
+mathematics, part time
+ 
+
+ Students (Sorted by GPA in descending order)
+------------------
+1. josh 
+ID: yu7654 
+GPA: 4.5 
+Credit hours: 4
+ 
